@@ -6,7 +6,8 @@ I am developper from Senegal technology and science enthusiast
 
 ![LARAVEL](https://img.shields.io/badge/-Laravel-090909?style-for-the-badge&logo=laravel&logoColor=FF0000)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-090909?style-for-the-badge&logo=flutter&logoColor=47c5FB)
-![DJANGO](https://img.shields.io/badge/-Django-090909?style-for-the-badge&logo=django&logoColor=47c5FB)
+![DJANGO](https://img.shields.io/badge/-Django-090909?style-for-the-badge&logo=django&logoColor=008000)
+![ANGULAR](https://img.shields.io/badge/-Django-090909?style-for-the-badge&logo=django&logoColor=008000)
 
 
 Skills: LARAVEL / FLUTTER / DJANGO / JS / HTML / CSS / FIGMA
