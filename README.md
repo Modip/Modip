@@ -1,5 +1,5 @@
-### Hi there 👋, I am Modip
-#### I am developper from Senegal 
+### Hello world 👋, I am Modip
+#### I am developper from Senegal technology and science enthusiast
 ![I am developper from Senegal ](https://github.com/Modip/Modip/blob/main/modip_twitter.jpg)
 
 I am developper from Senegal i am passionate of programming and science
