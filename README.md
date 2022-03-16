@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Modip
 #### I am developper from Senegal 
-![I am developper from Senegal ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am developper from Senegal ](https://github.com/Modip/Modip/blob/main/modip_twitter.jpg)
 
 I am developper from Senegal i am passionate of programming and science
 
