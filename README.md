@@ -3,7 +3,7 @@
 I am developper from Senegal technology and science enthusiast
 
 ### Languages and Tools
-![FLUTTER] (https://img.shields.io/badge/<Flutter>-<MESSAGE>-<COLOR>)
+![FLUTTER] (https://img.shields.io/badge/-Flutter-090909?style-for-the-badge&logo=flutter&logoColor=47c5FB)
 
 Skills: LARAVEL / FLUTTER / DJANGO / JS / HTML / CSS / FIGMA
 
