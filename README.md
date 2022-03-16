@@ -5,7 +5,7 @@ I am developper from Senegal technology and science enthusiast
 ### Languages and Tools
 
 ![LARAVEL](https://img.shields.io/badge/-Laravel-090909?style-for-the-badge&logo=laravel&logoColor=FF0000)
-![FLUTTER](https://img.shields.io/badge/-Flutter-090909?style-for-the-badge&logo=flutter&logoColor=47c5FB)
+![FLUTTER](https://img.shields.io/badge-height='40'/-Flutter-090909?style-for-the-badge&logo=flutter&logoColor=47c5FB)
 ![DJANGO](https://img.shields.io/badge/-Django-090909?style-for-the-badge&logo=django&logoColor=008000)
 ![ANGULAR](https://img.shields.io/badge/-Angular-090909?style-for-the-badge&logo=angular&logoColor=FF0000)
 ![SPRING](https://img.shields.io/badge/-Spring-090909?style-for-the-badge&logo=spring&logoColor=90EE90)
