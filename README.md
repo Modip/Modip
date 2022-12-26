@@ -1,8 +1,8 @@
 ### Hello world 👋, I am Modip
 
-I am developper from [Senegal] technology enthusiast.
+I am developper from Senegal technology enthusiast.
 
-I am also [physics] enthousiast
+I am also physics enthousiast
 
 ### Languages and Tools
 
@@ -23,6 +23,8 @@ Skills: LARAVEL / FLUTTER / DJANGO / JS / HTML / CSS / FIGMA
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modip)](https://github.com/anuraghazra/github-readme-stats)
+
+[<h3>Connect with me </h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/modip)
 
