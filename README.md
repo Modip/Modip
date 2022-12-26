@@ -1,8 +1,8 @@
 ### Hello world 👋, I am Modip
 
-I am developper from Senegal technology enthusiast.
+I am developper from <span> Senegal </span> technology enthusiast.<br>
 
-I am also physics enthousiast
+I am also <span> physics </span> enthousiast
 
 ### Languages and Tools
 
@@ -24,10 +24,6 @@ Skills: LARAVEL / FLUTTER / DJANGO / JS / HTML / CSS / FIGMA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modip)](https://github.com/anuraghazra/github-readme-stats)
 
-[<h3>Connect with me </h3>
+<h3>Connect with me </h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/modip)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/modip/) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@mordip6) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/modip) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/modip/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@mordip6) 
