@@ -1,6 +1,7 @@
 ### Hello world 👋, I am Modip
 
-I am developper from Senegal technology and science enthusiast
+I am developper from Senegal technology enthusiast.
+I am also physics enthousiast
 
 ### Languages and Tools
 
